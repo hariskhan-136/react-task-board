@@ -1,6 +1,6 @@
 # React Task Board
 
-A single-page interactive Task Board built with **React, TypeScript, and Vite** as part of the Coding Pixel Full-Stack Internship Program – Week 3.
+Week 3 - React Task Board project completed as part of the Coding Pixel Full-Stack Internship Program.
 
 ## Screenshot
 
